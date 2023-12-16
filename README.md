@@ -3,8 +3,8 @@ An AI-type news aggregation application
 
 ## 安装
 
-'pip install gnews'
-'pip install newspaper3k'
+`pip install gnews`
+`pip install newspaper3k`
 
 ## 技术
 
